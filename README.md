@@ -10,10 +10,10 @@ PRODUCTS PAGE
 ![image](https://user-images.githubusercontent.com/63421462/128139427-bea3f669-314d-4175-b033-32937a056e9d.png)
 
 SUPPORT PAGE
-![image](https://user-images.githubusercontent.com/63421462/128139511-e77ef7b2-13ae-41c5-897d-3d6eb0a988b1.png)
+![image](https://user-images.githubusercontent.com/63421462/128139469-0135b5d9-5152-4d87-bb35-018596104d42.png)
 
 FEEDBACK PAGE
-![image](https://user-images.githubusercontent.com/63421462/128139469-0135b5d9-5152-4d87-bb35-018596104d42.png)
+![image](https://user-images.githubusercontent.com/63421462/128139511-e77ef7b2-13ae-41c5-897d-3d6eb0a988b1.png)
 
 FEEDBACK CONFIRMATION PAGE
 ![image](https://user-images.githubusercontent.com/63421462/128139569-b89a3447-b529-4d6c-9dca-b362ddb2a0a9.png)
